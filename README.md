@@ -1,11 +1,14 @@
 # Hola soy Juan 🙂
 
 Ingeniero en sistemas computacionales | Ciber seguridad
+
 México | jjvr.0208@gmail.com
 
 ## Sobre mí
 
 Soy estudiante en ingenieria de sistemas computacionales, me gusta mucho la tecnología y me gustaría especializarme en ciber seguridad o relacionado a ello.
+
+Tengo 23 años.
 
 ## Tecnologías y herramientas
 
