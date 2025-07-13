@@ -1,16 +1,22 @@
-# Hola soy Juan 🙂
+# 👋 ¡Hola, soy Juan Jose Vivanco Rivera! 
 
-Ingeniero en sistemas computacionales | Ciber seguridad
+🎓 Estudiante de Ingeniería en Sistemas Computacionales  
+🔐 Apasionado por la Ciberseguridad  
+🌎 México | 📧 jjvr.0208@gmail.com  
 
-México | jjvr.0208@gmail.com
+---
 
-## Sobre mí
+## 🧠 Sobre mí
 
-Soy estudiante en ingenieria de sistemas computacionales, me gusta mucho la tecnología y me gustaría especializarme en ciber seguridad o relacionado a ello.
+Soy un estudiante de Ingeniería en Sistemas Computacionales con una gran pasión por la tecnología. Me entusiasma el aprendizaje constante y mi objetivo es especializarme en **Ciberseguridad**, aunque también disfruto explorar áreas como el desarrollo web y la automatización.
 
-Tengo 23 años.
+Actualmente tengo **23 años** y estoy en constante aprendizaje, buscando siempre crecer tanto personal como profesionalmente.
 
-## Tecnologías y herramientas
+---
+
+## 🛠️ Tecnologías y herramientas
+
+Aquí están algunas de las tecnologías con las que he trabajado:
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -21,3 +27,24 @@ Tengo 23 años.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+## 🚀 En progreso
+
+- 📚 Actualmente aprendiendo más sobre **hacking ético y ciberseguridad ofensiva**
+- 💡 Explorando proyectos con **Python**, **PHP**, y **MySQL**
+- 🧩 Trabajando en proyectos personales y académicos
+
+---
+
+## 📫 Contacto
+
+¿Quieres platicar o colaborar en algún proyecto?  
+Puedes escribirme a: **jjvr.0208@gmail.com**
+
+---
+
+> _"El conocimiento es poder, pero compartirlo es aún más poderoso."_ 💬
+
+![ArevirV GitHub stats](https://github-readme-stats.vercel.app/api?username=tu_usuario_github&show_icons=true&theme=dracula)
