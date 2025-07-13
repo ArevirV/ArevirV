@@ -47,4 +47,4 @@ Puedes escribirme a: **jjvr.0208@gmail.com**
 
 > _"El conocimiento es poder, pero compartirlo es aún más poderoso."_ 💬
 
-![ArevirV GitHub stats](https://github-readme-stats.vercel.app/api?ArevirV_github&show_icons=true&theme=dracula)
+![ArevirV GitHub stats](https://github-readme-stats.vercel.app/api?ArevirV&show_icons=true&theme=dracula)
